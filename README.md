@@ -1,8 +1,8 @@
 ## 모각모각 CS 스터디
 
 - 신입 개발자에게 필요한 CS지식 저장소
-[참고1](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)<br/>
-[참고2](https://github.com/gyoogle/tech-interview-for-developer)
+  - [참고1](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+  - [참고2](https://github.com/gyoogle/tech-interview-for-developer)
 
 ### 스터디원
 - 예원
